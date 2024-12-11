@@ -1,26 +1,26 @@
 {
   "site": {
-    "title": "EV0 ",
-    "base_url": "https://ev0.gndx.io",
+    "title": "Jehú Frayle",
+    "base_url": "https://jehu.dev",
     "base_path": "/",
-    "favicon": "/favicon.png",
-    "logoLight": "/logoLight.png",
-    "logoDark": "/logoDark.png",
+    "favicon": "/assets/JehuLogo.svg",
+    "logoLight": "/assets/JehuLogo Light.svg",
+    "logoDark": "/assets/JehuLogo.svg",
     "lang": "en",
     "description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript.",
     "pageSize": 6
   },
   "features": {
-    "youtube": true,
+    "youtube": false,
     "dark_mode": true
   },
   "metadata": {
-    "meta_author": "Oscar Barajas @gndx",
-    "meta_description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "meta_author": "Jehu Frayle",
+    "meta_description": "My personal blog where I write about programming, technology and my life.Based on EV0, a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
   },
   "author": {
-    "name": "Oscar Barajas Tavares @gndx",
-    "avatar": "https://s3.amazonaws.com/gndx.dev/gndx-astro-avatar.png",
-    "bio": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "name": "Jehú Frayle",
+    "avatar": "https://pbs.twimg.com/profile_images/1756522755619684352/oha6NwzQ_400x400.jpg",
+    "bio": "IT Support professional and student. Working on frontend and backend projects, scripting, and server administration. Currently learning about Azure and cloud technologies to pursue a career as a systems administrator."
   }
 }

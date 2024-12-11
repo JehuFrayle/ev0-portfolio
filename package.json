@@ -65,6 +65,8 @@
     "astro-compress/sharp": "0.33.1"
   },
   "dependencies": {
-    "astro-compressor": "0.4.1"
+    "@astrojs/check": "^0.9.4",
+    "astro-compressor": "0.4.1",
+    "typescript": "^5.7.2"
   }
 }
