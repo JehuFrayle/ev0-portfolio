@@ -7,8 +7,6 @@ categories: ['lifestyle']
 authors: ['Jehu']
 tags: ['science', 'technology']
 ---
-
-# El perfeccionismo está arruinando mi vida   
 Aprendiz de todo pero maestro de nada. Así me he visto desde que empecé a tener intereses.    
 Constantemente me veo iniciando nuevos proyectos e ideando otros. Cada cuál más grande que el anterior.   
 Sin embargo, la mayor parte de las veces soy incapaz de crear algo con lo que me sienta cómodo y que me de ganas de mostrárselo al mundo.    
