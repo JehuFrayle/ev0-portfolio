@@ -5,7 +5,7 @@ pubDate: 'Dec 10 2024'
 heroImage: 'https://cdn.pixabay.com/photo/2020/08/25/21/35/dartboard-5518058_1280.jpg'
 categories: ['lifestyle']
 authors: ['Jehu']
-tags: ['science', 'technology']
+tags: ['personal']
 ---
 Aprendiz de todo pero maestro de nada. Así me he visto desde que empecé a tener intereses.    
 Constantemente me veo iniciando nuevos proyectos e ideando otros. Cada cuál más grande que el anterior.   
