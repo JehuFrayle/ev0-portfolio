@@ -1,6 +1,6 @@
 ---
 title: 'Autoengaño'
-description: 'L'
+description: 'La mentira más perjudicial es la que te dices a ti mismo.'
 pubDate: 'Dec 16 2024'
 heroImage: '/assets/lies.jpeg'
 categories: ['lifestyle']
