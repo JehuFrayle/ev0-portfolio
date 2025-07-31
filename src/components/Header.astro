@@ -50,15 +50,19 @@ const { main }: { main: NavigationLink[] } = menu;
       </div>
       <div class="relative order-3 flex">
         <!-- navbar toggler -->
-        <input id="nav-toggle" type="checkbox" class="hidden" />
+        <input id="nav-toggle" type="checkbox" class="peer hidden" />
         <label
           id="show-button"
           for="nav-toggle"
-          class="order-2 flex cursor-pointer items-center text-zinc-400 md:hidden"
+          class="order-2 flex cursor-pointer items-center text-zinc-400 peer-checked:hidden md:hidden"
         >
           <HamburgerIcon />
         </label>
-        <label id="hide-button" for="nav-toggle" class="order-2 hidden cursor-pointer items-center text-zinc-400">
+        <label
+          id="hide-button"
+          for="nav-toggle"
+          class="order-2 hidden cursor-pointer items-center text-zinc-400 peer-checked:flex md:hidden"
+        >
           <CloseIcon />
         </label>
         <!-- /navbar toggler -->
